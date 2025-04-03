@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src="https://komarev.com/ghpvc/?username=Karnnxz&style=flat-square&coler=blue" alt="account counter=/">
 
-### Skills
+### Languages and Tools :
 
 
 <p align="left">
